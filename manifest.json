@@ -1,0 +1,45 @@
+{
+    "name": "EnergySavers",
+    "short_name": "EnergySavers",
+    "description": "EnergySaver | A Solution For Energy Saver of Household as well as for Industry",
+    "start_url": ".",
+    "background_color": "#1B3358",
+    "theme_color": "#1B3358",
+    "display": "standalone",
+    "icons": [
+        {
+        "src": "images/Logo1.png",
+        "sizes": "2000x2000",
+        "type": "image/png"
+        },
+
+        {
+        "src": "images/Logo2.png",
+        "sizes": "980x980",
+        "type": "image/png"
+        },
+
+        {
+        "src": "images/Logo2.png",
+        "sizes": "980x980",
+        "type": "image/png",
+        "purpose": "maskable"
+        }
+    ],
+    
+    "screenshots": [
+        {
+         "src": "images/Logo1.png",
+          "sizes": "2000x2000",
+          "type": "image/png",
+          "form_factor": "wide",
+          "label": "Wonder Widgets"
+        },
+        {
+         "src": "images/Logo2.png",
+          "sizes": "980x980",
+          "type": "image/png",
+          "label": "Wonder Widgets"
+        }
+    ]
+}

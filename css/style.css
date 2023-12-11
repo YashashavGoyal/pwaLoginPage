@@ -402,14 +402,15 @@ form button:hover {
 .home .content{
     backdrop-filter: blur(6px);
     background: #0d47a142;
-    width: 60%;
+    width: 80%;
     padding: 20px 10px;
     border-radius: 20px;
-    height: 50%;
+    height: 70%;
     -webkit-backdrop-filter: blur(6px);
     display: flex;
     flex-direction: column;
     align-items: center;
+    justify-content: center;
     margin: auto;
 }
 
@@ -423,11 +424,11 @@ form button:hover {
 }
 
 .home .content button{
-    width: 20%;
+    width: auto;
     color: #fff;
     border: none;
     outline: none;
-    padding: 14px 0;
+    padding: 14px;
     font-size: 1rem;
     font-weight: 500;
     border-radius: 3px;
